@@ -11,7 +11,7 @@ OpenMedTech Lab is an international collaborative community dedicated to advanci
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+At OpenMedTech, we develop innovative neural engineering, rehabilitation robotics, wearable medical devices, and assistive technologies to enhance mobility, independence, and quality of life for people with disabilities and neurological conditions.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our projects include electrical stimulation systems, robotic exoskeletons, standing wheelchairs, assistive mobility devices, wearable sensors, and other accessible technologies designed to improve independence and quality of life.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We have created affordable technologies that improve mobility, independence, and quality of life for people with disabilities, particularly in low- and middle-income countries. By making rehabilitation and assistive technologies more accessible, we help unlock opportunities for participation in education, employment, and community life.
 
 {%
   include button.html
@@ -76,6 +76,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Our Impact"
   text=text
 %}
