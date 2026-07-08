@@ -3,7 +3,7 @@
 
 # Welcome
 
-OpenMedTech Lab is an international collaborative community dedicated to advancing medical technology through innovative open source solutions. Convenor of the OpenMedTech Lab is Dr Monzurul Alam. We bring together developers, engineers, healthcare professionals, and enthusiasts to create impactful projects for the community.
+OpenMedTech Lab is an international collaborative community dedicated to advancing medical technology through innovative open-source solutions. Convenor of the OpenMedTech Lab is Dr Monzurul Alam. We bring together developers, engineers, healthcare professionals, and enthusiasts to create impactful projects for the community.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ OpenMedTech Lab is an international collaborative community dedicated to advanci
 
 {% capture text %}
 
-At OpenMedTech, we develop innovative neural engineering, rehabilitation robotics, wearable medical devices, and assistive technologies to enhance mobility, independence, and quality of life for people with disabilities and neurological conditions.
+At OpenMedTech, we develop innovative neural engineering, rehabilitation robotics, wearable medical devices, and assistive technologies to enhance mobility, independence, and improve quality-of-life for people with disabilities and neurological conditions.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ At OpenMedTech, we develop innovative neural engineering, rehabilitation robotic
 
 {% capture text %}
 
-Our projects include electrical stimulation systems, robotic exoskeletons, standing wheelchairs, assistive mobility devices, wearable sensors, and other accessible technologies designed to improve independence and quality of life.
+Our projects include electrical stimulation systems, robotic exoskeletons, standing wheelchairs, mobility devices, wearable sensors, and other rehabilitative and assistive technologies designed to improve functional independence and improve quality-of-life.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Our projects include electrical stimulation systems, robotic exoskeletons, stand
 
 {% capture text %}
 
-We have created affordable technologies that improve mobility, independence, and quality of life for people with disabilities, particularly in low- and middle-income countries. By making rehabilitation and assistive technologies more accessible, we help unlock opportunities for participation in education, employment, and community life.
+We have created affordable technologies that improve mobility, independence, and quality-of-life for people with disabilities, particularly in low- and middle-income countries. By making rehabilitation and assistive technologies more accessible, we help unlock opportunities for participation in education, employment, and community life.
 
 {%
   include button.html
