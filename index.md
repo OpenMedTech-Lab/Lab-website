@@ -3,7 +3,7 @@
 
 # OpenMedTech-Lab's Website
 
-An engaging 1-3 sentence description of your lab.
+OpenMedTech Lab is an international collaborative community dedicated to advancing medical technology through innovative open source solutions. Convenor of the OpenMedTech Lab is Dr Monzurul Alam. We bring together developers, engineers, healthcare professionals, and enthusiasts to create impactful projects for the community.
 
 {% include section.html %}
 
