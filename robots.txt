@@ -1,1 +1,1 @@
-Sitemap: http://openmedtech.org/OpenMedTechLab/sitemap.xml
+Sitemap: http://openmedtech.org/openmedtechlab.github.io/sitemap.xml
