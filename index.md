@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome
+# Welcome to Human-Centred Innovation
 
 OpenMedTech Lab is an international collaborative community dedicated to advancing medical technology through innovative open-source solutions. Convenor of the OpenMedTech Lab is Dr Monzurul Alam. We bring together developers, engineers, healthcare professionals, and enthusiasts to create impactful projects for the community.
 
