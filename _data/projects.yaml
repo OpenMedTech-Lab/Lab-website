@@ -1,20 +1,20 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: OpenXstim
+  subtitle: Open-source Neuromodulation Platform
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: OpenXstim is a low-cost, customisable neuromodulation platform designed to support research, education and clinical translation. The system enables flexible development and evaluation of stimulation technologies for rehabilitation and functional restoration.
+  repo: OpenMedTech-Lab/OpenXstim
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: OpenXsheel
+  subtitle: Open-source Standing Wheelchair
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: OpenXWheel is an affordable standing wheelchair designed to improve mobility, independence and participation for individuals with mobility impairments. The project focuses on accessibility, affordability and user-centred design.
+  repo: OpenMedTech-Lab/OpenXwheel
   tags:
     - resource
 
