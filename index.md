@@ -26,7 +26,7 @@ At OpenMedTech, we develop innovative neural engineering, rehabilitation robotic
 
 {%
   include feature.html
-  image="images/research.png"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Our projects include electrical stimulation systems, robotic exoskeletons, stand
 
 {%
   include feature.html
-  image="images/projects.png"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
