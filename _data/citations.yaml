@@ -659,34 +659,32 @@
   orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1088/1741-2552/ae20c2
+  title: 'OpenXstim: an open-source programmable electrical stimulator for transcutaneous
+    spinal cord stimulation therapy'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
+  - Monzurul Alam
+  - Vaheh Nazari
+  - Md Akhlasur Rahman
+  - Vijayapriya Arumugam
+  - Naveena Narayanan
+  - Farjana Taoheed
+  - Md Shofiqul Islam
+  - Padmanabhan Thirunavukkarasu
+  - Mohammad Sohrab Hossain
+  - Alistair McEwan
+  publisher: Journal of Neural Engineering
   date: '2020-12-04'
-  link: https://doi.org/c7np
+  link: https://doi.org/hb9w33
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+  description: This programmable, open-source neurostimulator offers tangible hope
+    for expanding access to non-invasive neuromodulation research and treatments for
+    people with paralysis worldwide.
+  image: https://content.cld.iop.org/journals/1741-2552/22/6/066021/revision2/jneae20c2f6_lr.jpg
+  buttons: null
   tags:
   - open science
   - collaboration
-  repo: greenelab/meta-review
+  repo: OpenMedTech-Lab/OpenXstim
   plugin: sources.py
   file: sources.yaml
