@@ -8,7 +8,7 @@
   tags:
     - resource
 
-- title: OpenXsheel
+- title: OpenXwheel
   subtitle: Open-source Standing Wheelchair
   group: featured
   image: images/photo.jpg
@@ -18,30 +18,30 @@
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: OpenXamp
+  subtitle: Open-source Biosignal Amplifier
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: A biosignal acquisition platform for research, teaching and medical technology development. OpenXamp supports the recording of physiological signals for rehabilitation, neural engineering and assistive technology applications.
+  repo: OpenMedTech-Lab/OpenXamp
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: OpenXhand
+  subtitle: Robotic Hand Rehabilitation System
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: OpenXHand is a wearable robotic exoskeleton system designed to assist hand movement and support rehabilitation following neurological injury or disease.
+  repo: OpenMedTech-Lab/OpenXhand
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: OpenXwalk
+  subtitle: Wearable Robotic Walking Assistance System
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: OpenXwalk is a modular robotic gait assistance platform that supports walking rehabilitation and mobility training for people with neurological conditions.
+  repo: OpenMedTech-Lab/OpenXstand
   tags:
     - software
