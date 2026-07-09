@@ -7,8 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research focuses on neural engineering, neurorehabilitation, neuromodulation, neuroprosthetics, assistive technologies and brain–computer interfaces for restoring function following neurological injury and disease. By integrating bioelectronic medicine, rehabilitation robotics, wearable medical devices and assistive technologies, we develop innovative solutions that enhance mobility, independence and quality of life for people living with disability. Our key research themes include:
+
+- Neural Repair through Neuromodulation and Bioelectronic Medicine
+- Sensorimotor Restoration with Bionics and Rehabilitation Robotics
+- Wearable and Wireless Medical Devices
+- 3D-Printed Prosthetics, Mobility and Assistive Aids
 
 {% include section.html %}
 
