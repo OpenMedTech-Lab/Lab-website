@@ -1,7 +1,7 @@
 - id: doi:10.1088/1741-2552/ae20c2
   type: paper
   description: This programmable, open-source neurostimulator offers tangible hope for expanding access to non-invasive neuromodulation research and treatments for people with paralysis worldwide.
-  date: 2020-12-4
+  date: 2025-11-27
   image: https://content.cld.iop.org/journals/1741-2552/22/6/066021/revision2/jneae20c2f6_lr.jpg
   buttons:
     #- type: manubot
