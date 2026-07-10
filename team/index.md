@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Contributors
 
 OpenMedTech Lab is a multidisciplinary team of volunteer researchers, engineers, clinicians, students, and collaborators from around the world, dedicated to developing affordable, accessible, and open-source medical technologies for global health. 
 
@@ -16,9 +16,7 @@ OpenMedTech Lab is a multidisciplinary team of volunteer researchers, engineers,
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Together, we advance rehabilitation engineering, neurotechnology, robotics, and assistive technologies that empower people with disabilities and improve lives worldwide.
 
 {% include section.html %}
 
