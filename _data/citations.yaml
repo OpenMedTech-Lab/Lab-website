@@ -1,5 +1,123 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1080/17483107.2025.2591868
+  title: Feasibility, usability, and acceptability of a novel open-source low-cost
+    manual standing wheelchair in low economic settings
+  authors:
+  - Farjana Taoheed
+  - Shovan Parvez
+  - Md Akhlasur Rahman
+  - Muzaffor Hossain
+  - Mohammad Anwar Hossain
+  - Md. Obaidul Haque
+  - Valerie Ann Taylor
+  - Mohammad Sohrab Hossain
+  - Monzurul Alam
+  publisher: 'Disability and Rehabilitation: Assistive Technology'
+  date: '2025-11-21'
+  link: https://doi.org/hb92qx
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1741-2552/ae20c2
+  title: 'OpenXstim: an open-source programmable electrical stimulator for transcutaneous
+    spinal cord stimulation therapy'
+  authors:
+  - Monzurul Alam
+  - Vaheh Nazari
+  - Md Akhlasur Rahman
+  - Vijayapriya Arumugam
+  - Naveena Narayanan
+  - Farjana Taoheed
+  - Md Shofiqul Islam
+  - Padmanabhan Thirunavukkarasu
+  - Mohammad Sohrab Hossain
+  - Alistair McEwan
+  publisher: Journal of Neural Engineering
+  date: '2025-11-27'
+  link: https://doi.org/hb9w33
+  orcid: 0000-0003-0987-1999
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: This programmable, open-source neurostimulator offers tangible hope
+    for expanding access to non-invasive neuromodulation research and treatments for
+    people with paralysis worldwide.
+  image: https://content.cld.iop.org/journals/1741-2552/22/6/066021/revision2/jneae20c2f6_lr.jpg
+  buttons: null
+  tags:
+  - open science
+  - collaboration
+  repo: OpenMedTech-Lab/OpenXstim
+- id: doi:10.1101/2025.10.08.25337543
+  title: 'Spinal Cord Injury in Bangladesh: An 11 Year Single Centre Epidemiological
+    Study'
+  authors:
+  - Akhlasur Rahman
+  - Md. Shahoriar Ahmed
+  - Farjana Taoheed
+  - Md. Shaikhul Hasan
+  - Sayeed Uddin Helal
+  - Syed Shakawat Hossain
+  - Mohammad Anwar Hossain
+  - Monzurul Alam
+  - Mohammad Sohrab Hossain
+  publisher: openRxiv
+  date: '2025-10-09'
+  link: https://doi.org/hb92qz
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1201/9781003419235-8
+  title: Mobile Trans-Spinal Electrical Stimulation Therapy for Spinal Cord Injury
+  authors:
+  - Md Akhlasur Rahman
+  - Farjana Taoheed
+  - Peter Sturgess
+  - Alistair McEwan
+  - Monzurul Alam
+  publisher: Automation in Tele-Neurorehabilitation
+  date: '2025-09-17'
+  link: https://doi.org/hb92q2
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.03.05.25323410
+  title: Feasibility, Usability, and Acceptability of a Novel Open-source Manual Standing
+    Wheelchair in Low Resource Settings
+  authors:
+  - Farjana Taoheed
+  - Shovan Parvez
+  - Md Akhlasur Rahman
+  - Muzaffor Hossain
+  - Mohammad Anwar Hossain
+  - Md. Obaidul Haque
+  - Valerie Ann Taylor
+  - Mohammad Sohrab Hossain
+  - Monzurul Alam
+  publisher: openRxiv
+  date: '2025-03-07'
+  link: https://doi.org/hb92q3
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fbioe.2024.1372158
+  title: Effects of non-invasive cervical spinal cord neuromodulation by trans-spinal
+    electrical stimulation on cortico-muscular descending patterns in upper extremity
+    of chronic stroke
+  authors:
+  - Jianing Zhang
+  - Maner Wang
+  - Monzurul Alam
+  - Yong-Ping Zheng
+  - Fuqiang Ye
+  - Xiaoling Hu
+  publisher: Frontiers in Bioengineering and Biotechnology
+  date: '2024-03-21'
+  link: https://doi.org/hb92q4
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/jcm12237362
   title: 'Restoration of Over-Ground Walking via Non-Invasive Neuromodulation Therapy:
     A Single-Case Study'
@@ -14,6 +132,22 @@
   publisher: Journal of Clinical Medicine
   date: '2023-11-28'
   link: https://doi.org/hb9v4t
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.20944/preprints202309.1953.v1
+  title: Restoration of Over-Ground Walking via Non-invasive Neuromodulation Therapy
+  authors:
+  - Monzurul Alam
+  - Yan To Ling
+  - Md Akhlasur Rahman
+  - Arnold Yu Lok Wong
+  - Hui Zhong
+  - V. Reggie Edgerton
+  - Yong-Ping Zheng
+  publisher: MDPI AG
+  date: '2023-09-28'
+  link: https://doi.org/hb9v5v
   orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
@@ -32,6 +166,22 @@
   orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2022.10.03.510697
+  title: A novel therapeutic approach of ultrasound stimulation to restore forelimb
+    functions following cervical cord injury in rats
+  authors:
+  - Rakib Uddin Ahmed
+  - Monzurul Alam
+  - Shuai Li
+  - Poornima Palanisamy
+  - Hui Zhong
+  - Yong-Ping Zheng
+  publisher: openRxiv
+  date: '2022-10-07'
+  link: https://doi.org/hb9v4x
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/jcm11061550
   title: 'Trans-Spinal Electrical Stimulation Therapy for Functional Rehabilitation
     after Spinal Cord Injury: Review'
@@ -47,6 +197,20 @@
   orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1002/jum.15738
+  title: "Low\u2010Intensity Pulsed Ultrasound Stimulation for Bone Fractures Healing"
+  authors:
+  - Poornima Palanisamy
+  - Monzurul Alam
+  - Shuai Li
+  - Simon K. H. Chow
+  - "Yong\u2010Ping Zheng"
+  publisher: Journal of Ultrasound in Medicine
+  date: '2021-05-05'
+  link: https://doi.org/hb9v43
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/jcm11041043
   title: Effect of Cervical Transcutaneous Spinal Cord Stimulation on Sensorimotor
     Cortical Activity during Upper-Limb Movements in Healthy Individuals
@@ -58,22 +222,6 @@
   publisher: Journal of Clinical Medicine
   date: '2022-02-17'
   link: https://doi.org/hb9v4w
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.10.03.510697
-  title: A novel therapeutic approach of ultrasound stimulation to restore forelimb
-    functions following cervical cord injury in rats
-  authors:
-  - Rakib Uddin Ahmed
-  - Monzurul Alam
-  - Shuai Li
-  - Poornima Palanisamy
-  - Hui Zhong
-  - Yong-Ping Zheng
-  publisher: openRxiv
-  date: '2022-10-07'
-  link: https://doi.org/hb9v4x
   orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
@@ -101,20 +249,6 @@
   publisher: Advances in Orthopedics
   date: '2022-06-14'
   link: https://doi.org/hb9v42
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/jum.15738
-  title: "Low\u2010Intensity Pulsed Ultrasound Stimulation for Bone Fractures Healing"
-  authors:
-  - Poornima Palanisamy
-  - Monzurul Alam
-  - Shuai Li
-  - Simon K. H. Chow
-  - "Yong\u2010Ping Zheng"
-  publisher: Journal of Ultrasound in Medicine
-  date: '2021-05-05'
-  link: https://doi.org/hb9v43
   orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
@@ -158,6 +292,20 @@
   orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-870815/v1
+  title: Compact Design of A Lightweight Rehabilitative Exoskeleton for Restoring
+    Grasping Function in Patients with Hand Paralysis
+  authors:
+  - Vaheh Nazari
+  - Majid Pouladian
+  - Yong-Ping Zheng
+  - Monzurul Alam
+  publisher: Springer Science and Business Media LLC
+  date: '2021-09-23'
+  link: https://doi.org/hb9v48
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/prosthesis3010003
   title: Can Prosthetic Hands Mimic a Healthy Human Hand?
   authors:
@@ -182,20 +330,6 @@
   publisher: Dose-Response
   date: '2021-01-01'
   link: https://doi.org/hb9v47
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21203/rs.3.rs-870815/v1
-  title: Compact Design of A Lightweight Rehabilitative Exoskeleton for Restoring
-    Grasping Function in Patients with Hand Paralysis
-  authors:
-  - Vaheh Nazari
-  - Majid Pouladian
-  - Yong-Ping Zheng
-  - Monzurul Alam
-  publisher: Springer Science and Business Media LLC
-  date: '2021-09-23'
-  link: https://doi.org/hb9v48
   orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
@@ -309,6 +443,29 @@
   orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/759449
+  title: Neuromodulation of pelvic nerve during early phase of spinal cord injury
+    in rats using implantable prototype devices - a preliminary study
+  authors:
+  - Wendy Yen Xian Peh
+  - Monzurul Alam
+  - Rakib Uddin Ahmed
+  - Sanghoon Lee
+  - Li Jing Ong
+  - Shuhao Lu
+  - Roshini Mogan
+  - Gil Gerald Lasam Gammad
+  - Kian Ann Ng
+  - Astrid Rusly
+  - Sudip Nag
+  - Yong-Ping Zheng
+  - Shih-Cheng Yen
+  publisher: openRxiv
+  date: '2019-09-08'
+  link: https://doi.org/gk2hr8
+  orcid: 0000-0003-0987-1999
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/NER.2019.8717001
   title: Closed-Loop Bladder Neuromodulation Therapy in Spinal Cord Injury Rat Model
   authors:
@@ -355,26 +512,17 @@
   orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/759449
-  title: Neuromodulation of pelvic nerve during early phase of spinal cord injury
-    in rats using implantable prototype devices - a preliminary study
+- id: doi:10.1088/1361-6579/aac812
+  title: Measurement of neurovascular coupling in human motor cortex using simultaneous
+    transcranial Doppler and electroencephalography
   authors:
-  - Wendy Yen Xian Peh
   - Monzurul Alam
-  - Rakib Uddin Ahmed
-  - Sanghoon Lee
-  - Li Jing Ong
-  - Shuhao Lu
-  - Roshini Mogan
-  - Gil Gerald Lasam Gammad
-  - Kian Ann Ng
-  - Astrid Rusly
-  - Sudip Nag
+  - Ghazanfar Ahmed
+  - Yan To Ling
   - Yong-Ping Zheng
-  - Shih-Cheng Yen
-  publisher: openRxiv
-  date: '2019-09-08'
-  link: https://doi.org/gk2hr8
+  publisher: Physiological Measurement
+  date: '2018-06-01'
+  link: https://doi.org/hb9v5p
   orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
@@ -448,20 +596,6 @@
   publisher: Spinal Cord Series and Cases
   date: '2018-12-19'
   link: https://doi.org/hb9v5n
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1088/1361-6579/aac812
-  title: Measurement of neurovascular coupling in human motor cortex using simultaneous
-    transcranial Doppler and electroencephalography
-  authors:
-  - Monzurul Alam
-  - Ghazanfar Ahmed
-  - Yan To Ling
-  - Yong-Ping Zheng
-  publisher: Physiological Measurement
-  date: '2018-06-01'
-  link: https://doi.org/hb9v5p
   orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
@@ -643,48 +777,3 @@
   orcid: 0000-0003-0987-1999
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.20944/preprints202309.1953.v1
-  title: Restoration of Over-Ground Walking via Non-invasive Neuromodulation Therapy
-  authors:
-  - Monzurul Alam
-  - Yan To Ling
-  - Md Akhlasur Rahman
-  - Arnold Yu Lok Wong
-  - Hui Zhong
-  - V. Reggie Edgerton
-  - Yong-Ping Zheng
-  publisher: MDPI AG
-  date: '2023-09-28'
-  link: https://doi.org/hb9v5v
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1088/1741-2552/ae20c2
-  title: 'OpenXstim: an open-source programmable electrical stimulator for transcutaneous
-    spinal cord stimulation therapy'
-  authors:
-  - Monzurul Alam
-  - Vaheh Nazari
-  - Md Akhlasur Rahman
-  - Vijayapriya Arumugam
-  - Naveena Narayanan
-  - Farjana Taoheed
-  - Md Shofiqul Islam
-  - Padmanabhan Thirunavukkarasu
-  - Mohammad Sohrab Hossain
-  - Alistair McEwan
-  publisher: Journal of Neural Engineering
-  date: '2025-11-27'
-  link: https://doi.org/hb9w33
-  type: paper
-  description: This programmable, open-source neurostimulator offers tangible hope
-    for expanding access to non-invasive neuromodulation research and treatments for
-    people with paralysis worldwide.
-  image: https://content.cld.iop.org/journals/1741-2552/22/6/066021/revision2/jneae20c2f6_lr.jpg
-  buttons: null
-  tags:
-  - open science
-  - collaboration
-  repo: OpenMedTech-Lab/OpenXstim
-  plugin: sources.py
-  file: sources.yaml
