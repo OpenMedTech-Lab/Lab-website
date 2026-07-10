@@ -16,7 +16,7 @@ OpenMedTech Lab is a multidisciplinary team of volunteer researchers, engineers,
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Together, we advance rehabilitation engineering, neurotechnology, robotics, and assistive technologies that empower people with disabilities and improve lives worldwide.
+Together, we advance rehabilitation engineering, neurotechnology, robotics, and assistive technologies that empower people with disabilities and improve lives worldwide. We are proud to work closely with open-source organisations and partners in advancing our mission.
 
 {% include section.html %}
 
