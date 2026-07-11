@@ -9,6 +9,7 @@ aliases:
 links:
   home-page: https://scholar.google.com/citations?user=a2yhqEQAAAAJ&hl=en
   orcid: 0000-0003-0987-1999
+  email: md.malam@connect.polyu.hk
 ---
 
 Biomedical Engineer, Neural Engineer, and Rehabilitation Scientist with more than 20 years of international academic and research experience across the Asia–Pacific region, Europe, and North America. I have led and contributed to multidisciplinary research programs in spinal cord stimulation, neuroprosthetics, rehabilitation robotics, wearable technologies, and translational medical device development. 
