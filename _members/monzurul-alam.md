@@ -2,8 +2,8 @@
 name: Dr. Monzurul Alam
 image: images/monzurul.jpg
 role: Convenor
-<!-- affiliation: The University of Sydney -->
 aliases:
+  - Monzurul Alam
   - M. Alam
   - M Alam
 links:
