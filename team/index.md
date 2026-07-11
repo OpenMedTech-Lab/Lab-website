@@ -22,7 +22,7 @@ Together, we advance rehabilitation, neurotechnology, robotics, and assistive te
 
 {% capture content %}
 
-{% include figure.html image="images/oshw.jpg" %}
+{% include figure.html image="images/oshw.png" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/CRP.jpg" %}
 
