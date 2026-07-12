@@ -44,10 +44,9 @@
     for expanding access to non-invasive neuromodulation research and treatments for
     people with paralysis worldwide.
   image: https://content.cld.iop.org/journals/1741-2552/22/6/066021/revision2/jneae20c2f6_lr.jpg
-  buttons: null
   tags:
-  - open science
-  - collaboration
+  - open-source
+  - neural engineering
   repo: OpenMedTech-Lab/OpenXstim
 - id: doi:10.1101/2025.10.08.25337543
   title: 'Spinal Cord Injury in Bangladesh: An 11 Year Single Centre Epidemiological
