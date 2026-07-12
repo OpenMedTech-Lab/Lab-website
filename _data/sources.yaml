@@ -3,7 +3,7 @@
   description: This programmable, open-source neurostimulator offers tangible hope for expanding access to non-invasive neuromodulation research and treatments for people with paralysis worldwide.
   date: 2025-11-27
   image: https://content.cld.iop.org/journals/1741-2552/22/6/066021/revision2/jneae20c2f6_lr.jpg
-  buttons:
+  #buttons:
     #- type: manubot
     #  link: https://greenelab.github.io/meta-review/
     #- type: source
@@ -12,8 +12,8 @@
     #- type: website
     #  link: http://manubot.org
   tags:
-    - open science
-    - collaboration
+    - open-source
+    - neural engineering
   repo: OpenMedTech-Lab/OpenXstim
 
 #- id: doi:10.1016/j.csbj.2020.05.017
