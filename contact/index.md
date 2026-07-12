@@ -34,8 +34,8 @@ Connect with us to explore collaborations, research partnerships, and open-sourc
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/crp-ability.jpg"
+  caption="BHPI"
 %}
 
 {% endcapture %}
@@ -44,8 +44,8 @@ Connect with us to explore collaborations, research partnerships, and open-sourc
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/crp-savar.jpg"
+  caption="CRP"
 %}
 
 {% endcapture %}
@@ -55,7 +55,7 @@ Connect with us to explore collaborations, research partnerships, and open-sourc
 {% include section.html dark=true %}
 
 {% capture col1 %}
-[//]: # (This is a hidden single-line comment)
+Ability Not Disability
 {% endcapture %}
 
 {% capture col2 %}
@@ -63,7 +63,7 @@ Ability not Disability
 {% endcapture %}
 
 {% capture col3 %}
-[//]: # (This is a hidden single-line comment)
+Ability Not Disability
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
