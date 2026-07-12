@@ -55,15 +55,15 @@ Connect with us to explore collaborations, research partnerships, and open-sourc
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Ability Not Disability
+<!-- This is a single-line comment and will not be visible in the preview -->
 {% endcapture %}
 
 {% capture col2 %}
-Ability not Disability
+Ability not Disability. Service to suferers is service to God. 
 {% endcapture %}
 
 {% capture col3 %}
-Ability Not Disability
+<!-- This is a single-line comment and will not be visible in the preview -->
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
