@@ -1,7 +1,6 @@
 ---
 title: Congratulations to Monzurul on Receiving the SRI Research Writing Award
-image: images/photo.jpg
-author: Dr. Monzurul Alam
+image: images/monzurul.jpg
 tags:
   - award
 ---
