@@ -1,6 +1,6 @@
 ---
-title: Congratulations to Shovan Parvez on Winning the Judges’ Choice Award at the SRI Research Writing Prize
-image: images/shovan.jpg
+title: Congratulations to Shovan on Winning the Judges’ Choice Award at the SRI Research Writing Prize
+image: images/sri-writing-2024.png
 tags: award
 ---
 
