@@ -11,5 +11,5 @@ In his article, Monzurul shares groundbreaking research on non-invasive transcut
 
 This recognition reflects Monzurul’s commitment to advancing innovative rehabilitation technologies and translating research into meaningful outcomes for people with spinal cord injury worldwide. Congratulations, Monzurul, on this well-deserved achievement! 🎉
 
-For more information, please visit [SRI](https://www.thesri.org/why-research-matters/)
+Read the SRI “Why Research Matters 2020” publication [here](https://www.thesri.org/why-research-matters/).
 
