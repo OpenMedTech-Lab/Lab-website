@@ -34,7 +34,7 @@ Connect with us to explore collaborations, research partnerships, and open-sourc
 
 {%
   include figure.html
-  image="images/crp-ability.jpg"
+  image="images/bhpi.jpg"
   caption="BHPI"
 %}
 
