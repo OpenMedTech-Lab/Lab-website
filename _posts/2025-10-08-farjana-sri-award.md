@@ -1,5 +1,7 @@
 ---
 title: Congratulations to Farjana Taoheed on Receiving an SRI Award
+image: images/photo.jpg
+tags: award, conference
 ---
 
 We are delighted to congratulate Farjana Taoheed on receiving a Spinal Research Institute (SRI) Collaboration Grant Award. This recognition supported Farjana’s participation in the 64th International Spinal Cord Society (ISCoS) Conference, where she presented research on affordable rehabilitation and assistive technologies for people living with spinal cord injury and other neurological conditions.
