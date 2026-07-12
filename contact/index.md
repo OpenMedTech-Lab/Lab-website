@@ -55,21 +55,15 @@ Connect with us to explore collaborations, research partnerships, and open-sourc
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+[//]: # (This is a hidden single-line comment)
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Ability not Disability
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+[//]: # (This is a hidden single-line comment)
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
