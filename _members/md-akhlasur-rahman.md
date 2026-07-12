@@ -1,5 +1,5 @@
 ---
-name: Akhlasur Rahman
+name: Md Akhlasur Rahman
 image: images/aklasur.jpg
 role: research
 links:
