@@ -747,11 +747,12 @@
   - Monzurul Alam
   - Jufang He
   publisher: Advances in Bioinformatics and Biomedical Engineering
-  date: ''
+  date: '2014-03-08'
   link: https://doi.org/hb9v5s
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://coverimages.igi-global.com/cover-images/covers/9781466660946.png
 - id: doi:10.1088/1741-2560/10/6/066010
   title: A low-cost multichannel wireless neural stimulation system for freely roaming
     animals
