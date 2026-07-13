@@ -17,8 +17,13 @@
   date: '2025-11-21'
   link: https://doi.org/hb92qx
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  description: This affordable, open-source standing wheelchair offers tangible hope
+    for reducing global disparities in access to assistive technologies by enabling
+    independent standing and improving participation, health, and well-being for people
+    with paralysis.
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/iidt20.v021.i04
 - id: doi:10.1088/1741-2552/ae20c2
   title: 'OpenXstim: an open-source programmable electrical stimulator for transcutaneous
     spinal cord stimulation therapy'
@@ -39,34 +44,10 @@
   orcid: 0000-0003-0987-1999
   plugin: sources.py
   file: sources.yaml
-  type: paper
   description: This programmable, open-source neurostimulator offers tangible hope
     for expanding access to non-invasive neuromodulation research and treatments for
     people with paralysis worldwide.
   image: https://content.cld.iop.org/journals/1741-2552/22/6/066021/revision2/jneae20c2f6_lr.jpg
-  tags:
-  - open-source
-  - neural engineering
-  repo: OpenMedTech-Lab/OpenXstim
-- id: doi:10.1101/2025.10.08.25337543
-  title: 'Spinal Cord Injury in Bangladesh: An 11 Year Single Centre Epidemiological
-    Study'
-  authors:
-  - Akhlasur Rahman
-  - Md. Shahoriar Ahmed
-  - Farjana Taoheed
-  - Md. Shaikhul Hasan
-  - Sayeed Uddin Helal
-  - Syed Shakawat Hossain
-  - Mohammad Anwar Hossain
-  - Monzurul Alam
-  - Mohammad Sohrab Hossain
-  publisher: openRxiv
-  date: '2025-10-09'
-  link: https://doi.org/hb92qz
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1201/9781003419235-8
   title: Mobile Trans-Spinal Electrical Stimulation Therapy for Spinal Cord Injury
   authors:
@@ -79,27 +60,9 @@
   date: '2025-09-17'
   link: https://doi.org/hb92q2
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2025.03.05.25323410
-  title: Feasibility, Usability, and Acceptability of a Novel Open-source Manual Standing
-    Wheelchair in Low Resource Settings
-  authors:
-  - Farjana Taoheed
-  - Shovan Parvez
-  - Md Akhlasur Rahman
-  - Muzaffor Hossain
-  - Mohammad Anwar Hossain
-  - Md. Obaidul Haque
-  - Valerie Ann Taylor
-  - Mohammad Sohrab Hossain
-  - Monzurul Alam
-  publisher: openRxiv
-  date: '2025-03-07'
-  link: https://doi.org/hb92q3
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://images.tandf.co.uk/common/jackets/crclarge/978100341/9781003419235.jpg
 - id: doi:10.3389/fbioe.2024.1372158
   title: Effects of non-invasive cervical spinal cord neuromodulation by trans-spinal
     electrical stimulation on cortico-muscular descending patterns in upper extremity
@@ -115,8 +78,9 @@
   date: '2024-03-21'
   link: https://doi.org/hb92q4
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.frontiersin.org/api/ipx/w=716&f=webp/https://www.frontiersin.org/files/Articles/1372158/xml-images/fbioe-12-1372158-g001.webp
 - id: doi:10.3390/jcm12237362
   title: 'Restoration of Over-Ground Walking via Non-Invasive Neuromodulation Therapy:
     A Single-Case Study'
@@ -132,24 +96,9 @@
   date: '2023-11-28'
   link: https://doi.org/hb9v4t
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.20944/preprints202309.1953.v1
-  title: Restoration of Over-Ground Walking via Non-invasive Neuromodulation Therapy
-  authors:
-  - Monzurul Alam
-  - Yan To Ling
-  - Md Akhlasur Rahman
-  - Arnold Yu Lok Wong
-  - Hui Zhong
-  - V. Reggie Edgerton
-  - Yong-Ping Zheng
-  publisher: MDPI AG
-  date: '2023-09-28'
-  link: https://doi.org/hb9v5v
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/img/journals/jcm-logo.png?a3a9757d9587fc12
 - id: doi:10.3390/biomedicines11010034
   title: Combined Transcutaneous Electrical Spinal Cord Stimulation and Task-Specific
     Rehabilitation Improves Trunk and Sitting Functions in People with Chronic Tetraplegia
@@ -163,24 +112,9 @@
   date: '2022-12-23'
   link: https://doi.org/hb9v4v
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.10.03.510697
-  title: A novel therapeutic approach of ultrasound stimulation to restore forelimb
-    functions following cervical cord injury in rats
-  authors:
-  - Rakib Uddin Ahmed
-  - Monzurul Alam
-  - Shuai Li
-  - Poornima Palanisamy
-  - Hui Zhong
-  - Yong-Ping Zheng
-  publisher: openRxiv
-  date: '2022-10-07'
-  link: https://doi.org/hb9v4x
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/img/journals/biomedicines-logo.png?71c15d34b20b6e88
 - id: doi:10.3390/jcm11061550
   title: 'Trans-Spinal Electrical Stimulation Therapy for Functional Rehabilitation
     after Spinal Cord Injury: Review'
@@ -194,8 +128,9 @@
   date: '2022-03-11'
   link: https://doi.org/gpnw88
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/img/journals/jcm-logo.png?a3a9757d9587fc12
 - id: doi:10.1002/jum.15738
   title: "Low\u2010Intensity Pulsed Ultrasound Stimulation for Bone Fractures Healing"
   authors:
@@ -223,19 +158,9 @@
   date: '2022-02-17'
   link: https://doi.org/hb9v4w
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.21203/rs.3.rs-2116817/v1
-  title: An easy-to-build transcutaneous electrical stimulator for spinal cord stimulation
-    therapy
-  authors:
-  - Monzurul Alam
-  publisher: Research Square Platform LLC
-  date: '2022-10-03'
-  link: https://doi.org/hb9v4z
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pub.mdpi-res.com/img/journals/jcm-logo.png?a3a9757d9587fc12
 - id: doi:10.1155/2022/8642900
   title: "Caregivers\u2019 Knowledge, Attitude, and Practice towards Pressure Injuries\
     \ in Spinal Cord Injury at Rehabilitation Center in Bangladesh"
@@ -250,8 +175,9 @@
   date: '2022-06-14'
   link: https://doi.org/hb9v42
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/5ca086bb-0ac0-40d6-bbab-865a02101875/default_cover.jpg
 - id: doi:10.1016/B978-0-12-822498-4.00019-1
   title: Treating spinal cord injury with implanted spinal cord stimulators
   authors:
@@ -262,8 +188,9 @@
   date: '2022-01-01'
   link: https://doi.org/hb9v44
   orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/3-s2.0-C20190044937-cov200h.gif
 - id: doi:10.3390/s21206900
   title: A Compact and Lightweight Rehabilitative Exoskeleton to Restore Grasping
     Functions for People with Hand Paralysis
