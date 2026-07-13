@@ -98,7 +98,10 @@
   orcid: 0000-0003-0987-1999
   plugin: sources.py
   file: sources.yaml
-  image: https://pub.mdpi-res.com/img/journals/jcm-logo.png?a3a9757d9587fc12
+  description: This non-invasive neuromodulation therapy offers tangible hope that
+    paralysis long considered permanent may be reversible, enabling meaningful sensorimotor
+    recovery and over-ground walking even decades after spinal cord injury.
+  image: https://www.mdpi.com/jcm/jcm-12-07362/article_deploy/html/images/jcm-12-07362-g003-550.jpg
 - id: doi:10.3390/biomedicines11010034
   title: Combined Transcutaneous Electrical Spinal Cord Stimulation and Task-Specific
     Rehabilitation Improves Trunk and Sitting Functions in People with Chronic Tetraplegia
