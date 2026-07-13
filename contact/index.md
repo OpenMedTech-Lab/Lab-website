@@ -59,7 +59,7 @@ Connect with us to explore collaborations, research partnerships, and open-sourc
 {% endcapture %}
 
 {% capture col2 %}
-Ability not Disability. Service to suferers is service to God. 
+Ability, Not Disability — Empowering Lives Through Open and Accessible Innovation.
 {% endcapture %}
 
 {% capture col3 %}
