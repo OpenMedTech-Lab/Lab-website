@@ -19,7 +19,8 @@
   image: https://www.frontiersin.org/api/ipx/w=716&f=webp/https://www.frontiersin.org/files/Articles/1372158/xml-images/fbioe-12-1372158-g001.webp
 
 - id: doi:10.3390/jcm12237362
-  image: https://pub.mdpi-res.com/img/journals/jcm-logo.png?a3a9757d9587fc12
+  description: This non-invasive neuromodulation therapy offers tangible hope that paralysis long considered permanent may be reversible, enabling meaningful sensorimotor recovery and over-ground walking even decades after spinal cord injury.
+  image: https://www.mdpi.com/jcm/jcm-12-07362/article_deploy/html/images/jcm-12-07362-g003-550.jpg
 
 - id: doi:10.20944/preprints202309.1953.v1
   remove: true
