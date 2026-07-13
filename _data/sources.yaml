@@ -16,14 +16,92 @@
     - neural engineering
   repo: OpenMedTech-Lab/OpenXstim
 
+#- id: doi:10.3390/s21206900
+#  image: https://pub.mdpi-res.com/img/journals/sensors-logo.png?e6c5d1b63c26048a
 
-#- id: doi:10.1016/j.csbj.2020.05.017
-#  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.3390/s21206900
+  image: https://pub.mdpi-res.com/img/journals/sensors-logo.png?e6c5d1b63c26048a
 
+- id: doi:10.3390/s21196593
+  image: https://pub.mdpi-res.com/img/journals/sensors-logo.png?e6c5d1b63c26048a
 
+- id: doi:10.21203/rs.3.rs-870815/v1
+  remove: true
+
+- id: doi:10.1002/ejp.1838
+  image: https://onlinelibrary.wiley.com/cms/asset/07d757c2-aa44-46ee-976f-00389e107f79/ejp.v25.10.cover.jpg
+
+- id: doi:10.1002/jum.15738
+  image: https://onlinelibrary.wiley.com/pb-assets/assets/15509613/JUM_logo_RGB_LoRes%20%28002%29-1546455561150.png
+
+- id: doi:10.1007/s13311-020-00974-8
+  image: https://www.neurotherapeuticsjournal.org/cms/asset/63dddba3-8dbf-4a35-a0af-430102757c23/cov200h.gif
+
+- id: doi:10.21203/rs.3.rs-225668/v1
+  remove: true
+
+- id: doi:10.3390/prosthesis3010003
+  image: https://pub.mdpi-res.com/img/journals/prosthesis-logo.png?ae61be0a22fa6256
+
+- id: doi:10.1177/1559325821998136
+  image: https://journals.sagepub.com/cms/asset/97383ee5-8f2f-4867-8dc7-5bda290ffca2/default_cover.jpg
+
+- id: doi:10.1080/02699052.2020.1850864
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/ibij20.v034.i13-14
+
+- id: doi:10.1002/acn3.51051
+  image: https://onlinelibrary.wiley.com/cms/asset/de75b2e8-bb03-4798-94c2-48b04772d551/acn3.v7.5.cover.gif
+
+- id: doi:10.1177/1073858419895461
+  image: https://journals.sagepub.com/cms/asset/10d95c35-816f-4d4b-9a08-c0cb913593bc/nroa_32_3.largecover.png
+
+- id: doi:10.1101/759449
+  remove: true
+
+- id: doi:10.1186/s12984-019-0501-4
+  image: https://media.springernature.com/w158/springer-static/cover-hires/journal/12984?as=webp
+
+- id: doi:10.1016/j.heliyon.2019.e01324
+  image: https://www.cell.com/cms/asset/f6b04fa4-93b9-4883-a101-2e56d6981bb6/small_placeholder_cover.jpg
+
+- id: doi:10.1109/NER.2019.8717001
+  remove: true
+  
+- id: doi:10.1038/s41394-018-0141-0
+  image: https://media.springernature.com/full/nature-cms/uploads/product/scsandc/header-c63509f3c1c68981c1ebdf74468b2a80.svg
+
+- id: doi:10.1088/1741-2552/aadee9
+  image: https://cms.iopscience.org/1a4440b3-ec1f-11e5-b0b6-759f86a2008e/journal_cover?guest=true
+
+- id: doi:10.1088/1361-6579/aac812
+  image: https://cms.iopscience.org/0bbaf079-ec1f-11e5-b0b6-759f86a2008e/journal_cover?guest=true
+
+- id: doi:10.1109/BIOCAS.2017.8325202
+  remove: true
+  
+- id: doi:10.1109/BIOCAS.2017.8325079
+  remove: true
+
+- id: doi:10.1016/j.expneurol.2017.02.006
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0014488617X00034-cov200h.gif
+
+- id: doi:10.4103/1673-5374.219041
+  image: https://www.ovid.com//image-api/imgsrv/article/i/thumb/wkmrid/JOURNAL%252Fnrgr%252F04.03%252F01300535-202610000-00000%252Fcover%252Fv%252F2026-07-10T100526Z%252Fr%252Fimage-png/width/300.webp
+
+- id: doi:10.1089/neu.2015.4256
+  image: https://journals.sagepub.com/cms/asset/fd1f9b3e-01be-4de7-af35-83471dab416c/nrta_43_13-14.largecover.png
+
+- id: doi:10.1016/j.brainres.2016.05.039
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006899316X00169-cov200h.gif
+
+- id: doi:10.1016/j.jneumeth.2015.08.032
+  image: https://ars.els-cdn.com/content/image/X01650270.jpg
+
+- id: doi:10.1016/j.jneumeth.2015.03.012
+  image: https://ars.els-cdn.com/content/image/X01650270.jpg
 
 - id: doi:10.1371/journal.pone.0103764
-  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0103764.g002
+  image: https://journals.plos.org/plosone/
 
 - id: 10.1186/1743-0003-11-107
   image: https://media.springernature.com/w120/springer-static/cover-hires/journal/12984?as=webp
