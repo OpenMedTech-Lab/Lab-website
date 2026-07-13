@@ -373,7 +373,7 @@
   orcid: 0000-0003-0987-1999
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/w158/springer-static/cover-hires/journal/12984?as=webp
+  image: https://media.springernature.com/w158/springer-static/cover-hires/journal/42234?as=webp
 - id: doi:10.1016/j.heliyon.2019.e01324
   title: Experimental spinal cord injury and behavioral tests in laboratory rats
   authors:
@@ -518,24 +518,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/X01650270.jpg
-- id: doi:10.1016/j.jneumeth.2015.05.017
-  title: "Erratum to \u201CEvaluation of optimal electrode configurations for epidural\
-    \ spinal cord stimulation in cervical spinal cord injured rats\u201D [J. Neurosci.\
-    \ Methods 247 (2015) 50\u201357]"
-  authors:
-  - Monzurul Alam
-  - Guillermo Garcia-Alias
-  - Prithvi K. Shah
-  - Yury Gerasimenko
-  - Hui Zhong
-  - Roland R. Roy
-  - V. Reggie Edgerton
-  publisher: Journal of Neuroscience Methods
-  date: '2015-10-01'
-  link: https://doi.org/hb9v5r
-  orcid: 0000-0003-0987-1999
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.jneumeth.2015.03.012
   title: Evaluation of optimal electrode configurations for epidural spinal cord stimulation
     in cervical spinal cord injured rats
@@ -569,7 +551,7 @@
   orcid: 0000-0003-0987-1999
   plugin: sources.py
   file: sources.yaml
-  image: https://journals.plos.org/plosone/
+  image: https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0103764.g003
 - id: doi:10.1186/1743-0003-11-107
   title: 'Electronic bypass of spinal lesions: activation of lower motor neurons directly
     driven by cortical neural signals'
