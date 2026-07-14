@@ -23,7 +23,7 @@ Together, we advance rehabilitation, neurotechnology, robotics, and assistive te
 {% capture content %}
 
 {% include figure.html image="images/OSHA.png" link="https://oshwa.org/" %}
-{% include figure.html image="images/OSMS.jpg" link="https://opensourcemedicalsupplies.org/" %}
+{% include figure.html image="images/OSMS.svg" link="https://opensourcemedicalsupplies.org/" %}
 {% include figure.html image="images/CRP.jpg" link="https://www.crp-bangladesh.org/" %}
 
 {% endcapture %}
