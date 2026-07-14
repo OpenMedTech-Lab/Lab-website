@@ -5,6 +5,6 @@
 
   # OpenMedTech-Lab's Website
 
-  Visit **[openmedtech.org/Lab-website](http://openmedtech.org/Lab-website)** 🚀
+  Visit **[openmedtech.org](https://openmedtech.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
