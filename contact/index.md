@@ -12,8 +12,8 @@ Connect with us to explore collaborations, research partnerships, and open-sourc
 {%
   include button.html
   type="email"
-  text="md.malam@connect.polyu.hk"
-  link="md.malam@connect.polyu.hk"
+  text="mdmonzurul.alam@sydney.edu.au"
+  link="mdmonzurul.alam@sydney.edu.au"
 %}
 {%
   include button.html
@@ -35,6 +35,7 @@ Connect with us to explore collaborations, research partnerships, and open-sourc
 {%
   include figure.html
   image="images/bhpi.jpg"
+  link="https://www.bhpi.edu.bd/"
   caption="BHPI"
 %}
 
@@ -45,6 +46,7 @@ Connect with us to explore collaborations, research partnerships, and open-sourc
 {%
   include figure.html
   image="images/crp-savar.jpg"
+  link="https://www.crp-bangladesh.org/"
   caption="CRP"
 %}
 
